@@ -1,6 +1,6 @@
 ## Olá! Eu sou Maria Letícia
 - :computer: Sou graduanda em Engenharia Eletrônica
-- :floppy_disk: Estudando C++, Python, Java e SQL
+- :floppy_disk: Estudando C++, Python e Java
 - :minidisc: Pronouns: ela/dela
 
 
