@@ -8,7 +8,7 @@
   <a href="https://beacons.ai/letasbulhas">
  
   <img height ="150cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=letasbulhas&layout=compact&langs_count=16&theme=dracula"/>
-  [![card](https://github-readme-stats.vercel.app/api?username=letasbulhas&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ 
  
 
   </div>
